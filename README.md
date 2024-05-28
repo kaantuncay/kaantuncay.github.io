@@ -210,3 +210,9 @@ This line is only separated by a single newline, so it's a separate line in the 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/G_G5fDZp1oo/0.jpg)](http://www.youtube.com/watch?v=G_G5fDZp1oo)
+
+---
+
+ref: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+---
